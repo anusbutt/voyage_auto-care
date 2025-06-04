@@ -188,14 +188,6 @@ export function Header() {
               <ul className="list-none space-y-2 text-center">
                 <li>
                   <a
-                    href="tel:+1-555-123-4567"
-                    className="text-blue-400 hover:underline text-xl font-semibold"
-                  >
-                    Call Us: +1 (555) 123-4567
-                  </a>
-                </li>
-                <li>
-                  <a
                     href="mailto:info@voyageautocare.com"
                     className="text-blue-400 hover:underline text-xl font-semibold"
                   >
